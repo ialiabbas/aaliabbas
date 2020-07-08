@@ -1,11 +1,16 @@
 ## Muhammad Ali Abbas
 
-My name is Muhammad Ali Abbas. I am Data Science student at [FAST-NU]
+My name is Muhammad Ali Abbas. I am Data Science student at FAST-NU Lahore. Here I will share my information of roadmap for pursuing Data Science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+### Contact Information
+ You can contact me here:
+ Facebook @ [Muhammad Ali Abbas](https://www.facebook.com/aaliabbaas)
+ Twitter @ [Muhammad Ali Abbas](https://twitter.com/to_aliabbas)
+ Instagram @ [Muhammad Ali Abbas](https://instagram.com/to_aliabbas)
+ Linkedin @ [Muhammad Ali Abbas](https://linkedin.com/aaliabbaas)
+ Email @ [Muhammad Ali Abbas](https://)
+ 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
