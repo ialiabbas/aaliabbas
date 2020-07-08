@@ -11,7 +11,7 @@ My name is Muhammad Ali Abbas. I am Data Science student at FAST-NU Lahore. Here
  
  Instagram @ [Muhammad Ali Abbas](https://instagram.com/to_aliabbas)
  
- Linkedin @ [Muhammad Ali Abbas](https://linkedin.com/aaaliabbas)
+ Linkedin @ [Muhammad Ali Abbas](https://linkedin.com/in/aaliabbaas)
  
  Email @ [Muhammad Ali Abbas](https://)
  
