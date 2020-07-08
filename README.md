@@ -6,9 +6,13 @@ My name is Muhammad Ali Abbas. I am Data Science student at FAST-NU Lahore. Here
 ### Contact Information
  You can contact me here:
  Facebook @ [Muhammad Ali Abbas](https://www.facebook.com/aaliabbaas)
+ 
  Twitter @ [Muhammad Ali Abbas](https://twitter.com/to_aliabbas)
+ 
  Instagram @ [Muhammad Ali Abbas](https://instagram.com/to_aliabbas)
- Linkedin @ [Muhammad Ali Abbas](https://linkedin.com/aaliabbaas)
+ 
+ Linkedin @ [Muhammad Ali Abbas](https://linkedin.com/aaaliabbas)
+ 
  Email @ [Muhammad Ali Abbas](https://)
  
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
