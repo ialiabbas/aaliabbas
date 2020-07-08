@@ -21,7 +21,9 @@ Syntax highlighted code block
 ```
 
 ### Contact Information
- You can contact me here:
+
+You can contact me here:
+ 
  Facebook @ [Muhammad Ali Abbas](https://www.facebook.com/aaliabbaas)
  
  Twitter @ [Muhammad Ali Abbas](https://twitter.com/to_aliabbas)
