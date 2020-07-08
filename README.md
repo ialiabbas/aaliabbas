@@ -24,13 +24,13 @@ Syntax highlighted code block
 
 You can contact me here:
  
- Facebook @ [Muhammad Ali Abbas](https://www.facebook.com/aaliabbaas)
+ Facebook @   [Muhammad Ali Abbas](https://www.facebook.com/aaliabbaas)
  
- Twitter @ [Muhammad Ali Abbas](https://twitter.com/to_aliabbas)
+ Twitter @    [Muhammad Ali Abbas](https://twitter.com/to_aliabbas)
  
- Instagram @ [Muhammad Ali Abbas](https://instagram.com/to_aliabbas)
+ Instagram @  [Muhammad Ali Abbas](https://instagram.com/to_aliabbas)
  
- Linkedin @ [Muhammad Ali Abbas](https://linkedin.com/in/aaliabbaas)
+ Linkedin @   [Muhammad Ali Abbas](https://linkedin.com/in/aaliabbaas)
  
- Email @ [Muhammad Ali Abbas](https://)
+ Email @      [Muhammad Ali Abbas](mailto:alibukhari45@hotmail.com)
  
