@@ -1,6 +1,6 @@
 ## Muhammad Ali Abbas
 
-My name is Muhammad Ali Abbas. I am Data Science student at FAST-NU Lahore. Here I will share my information of roadmap for pursuing Data Science.
+My name is **Muhammad Ali Abbas**. I am **Data Science** student at _FAST-NU Lahore_. Here I will share my information of roadmap for pursuing Data Science.
 
 ```markdown
 Syntax highlighted code block
